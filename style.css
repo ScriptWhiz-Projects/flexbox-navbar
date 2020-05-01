@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-image: url('img/hardwork.jpg');
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+img {
+    margin-right: auto;
+}
+
+.nav__links li {
+    display: inline-block;
+    padding: 40px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    align-items: center;
+
+}
+
+button {
+    padding: 10px 40px;
+    list-style-type: none;
+    background: #ff7675;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 30px;
+    border: 0;
+    align-self: center;
+    line-height: 1.7em;
+}
+
+.learn-button {
+    margin: 0 auto;
+    line-height: 1.7em;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+/* section button {
+    align-self: flex-end;
+} */
