@@ -1,6 +1,6 @@
 # Project Title
-
-```shell Well I learnt flexbox and wanted to see how I can manage a basic navbar with flexbox without using bootstrap, hacks or floats
+```shell 
+Well I learnt flexbox and wanted to see how I can manage a basic navbar with flexbox without using bootstrap, hacks or floats
 ```
 ## Getting Started
 ```shell
